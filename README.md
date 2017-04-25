@@ -1,15 +1,15 @@
 # study.css
 个人学习CSS相关的一些信息
 
-##structureAndCascade
+## structureAndCascade
 结构和层叠
 
-##basicVisualFormatting
+## basicVisualFormatting
 基本视觉格式化
 
-##paddingBordersMargins
+## paddingBordersMargins
 内边距、边框、外边距
 
-##floatingAndPostioning
+## floatingAndPostioning
 浮动和定位
 
