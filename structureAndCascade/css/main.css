@@ -11,5 +11,11 @@
  */
 
 /*-- Start Tool Container --*/
-
+h1 {color: silver;}  /* 0,0,0,1 */
+h1 {background: black;}  /* 0,0,0,1 */
+h2.section {color: silver;}  /* 0,0,1,1 */
+h2.section {background: black;}  /* 0,0,1,1 */
+h1 + p {color: black; font-style: italic;}  /* 0,0,0,2 */
+p {color: gray; background: white; font-style: normal;}  /* 0,0,0,1 */
+*.aside {color: black; background: silver;}  /* 0,0,1,0 */
 /*-- End Tool Container --*/
